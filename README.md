@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @lgiraldor
-- 👀 I’m interested in proteins, RNA, DNA, genetics but MOSTLY macromolecular systems and understanding their behaviour throught computation and research
-- 🌱 I’m currently learning coding in R (Rstudio, Rmarkdown) and Python -> I'm working on becoming a BIOINFORMATIC ANALYST
-- 💞️ I’m looking to collaborate on code development projects and new research groups in different topics from my expertice  
-- 📫 How to reach me: HERE, or linkedin: linkedin.com/in/lucia-giraldo-ruiz/
+👋 Hi, I’m @lgiraldor  
+- 👀 I’m interested in proteins, RNA, DNA, genetics but MOSTLY macromolecular systems and understanding their behaviour through computation and research  
+- 🌱 I’m currently learning and improving my coding in R (Rstudio, Rmarkdown) and Python → I'm working on becoming a BIOINFORMATIC ANALYST  
+- 💞️ I’m looking to collaborate on research and code-driven projects that not only explore complex biological systems but also contribute to solving under-addressed health and social challenges.
+- 🌍 I'm strongly motivated by the potential of science to address global and social challenges — especially in areas like women's health, under-researched diseases (e.g. malaria), and supporting LGBTQIA+ communities through inclusive research  
+- 🧭  I believe science holds the potential and the responsibility to challenge structures, transform society, and drive meaningful change. I'm committed to aligning my research with these values — pushing for inclusive, critical, and socially engaged science.
+- 📫 How to reach me: HERE, or LinkedIn: [linkedin.com/in/lucia-giraldo-ruiz/](https://linkedin.com/in/lucia-giraldo-ruiz/)  
 - 😄 Pronouns: she / they
-
-<!---
+  
 lgiraldor/lgiraldor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
